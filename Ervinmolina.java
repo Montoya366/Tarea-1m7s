@@ -3,9 +3,11 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-
+//Datos
 //Nombre: Ervin Enmanuel Molina Montoya
 //Salon: 1M7-S 
+//Numero de carnet:2024-1691U
+
 public class MainClass {
 
     public static void main(String[] args) throws Exception {
